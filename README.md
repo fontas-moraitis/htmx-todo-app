@@ -1,4 +1,4 @@
-# Another todoapp
+# Another todo-app
 
 Another todo app used as an exploration step in HTMX
 
